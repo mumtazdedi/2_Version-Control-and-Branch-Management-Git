@@ -80,6 +80,16 @@ require 'functions.php';
         </tr>
         <tr>
           <td width="300px">
+            <font margin-left="50px">Nomor Telepon</font>
+          </td>
+          <td colspan="2">
+            <div class="form-group">
+              <input type="tel" class="form-control" id="exampleInputEmail1" placeholder="Nomor Telepon Anda" name="telpon" required>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="300px">
             <font margin-left="50px">Tempat, Tanggal Lahir</font>
           </td>
           <td>
